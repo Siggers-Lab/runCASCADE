@@ -1,0 +1,47 @@
+R version 3.5.1 (2018-07-02)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: CentOS Linux 7 (Core)
+
+Matrix products: default
+BLAS: /share/pkg.7/r/3.5.1/install/lib64/R/lib/libRblas.so
+LAPACK: /share/pkg.7/r/3.5.1/install/lib64/R/lib/libRlapack.so
+
+locale:
+[1] C
+
+attached base packages:
+[1] stats4    parallel  stats     graphics  grDevices utils     datasets 
+[8] methods   base     
+
+other attached packages:
+ [1] MotifDb_1.24.1      Biostrings_2.50.1   XVector_0.22.0     
+ [4] IRanges_2.16.0      S4Vectors_0.20.1    BiocGenerics_0.28.0
+ [7] ggseqlogo_0.1       RColorBrewer_1.1-2  cowplot_0.9.4      
+[10] ggplot2_3.1.1       profvis_0.3.6      
+
+loaded via a namespace (and not attached):
+ [1] SummarizedExperiment_1.12.0 tidyselect_0.2.5           
+ [3] purrr_0.3.2                 lattice_0.20-38            
+ [5] colorspace_1.4-1            htmltools_0.3.6            
+ [7] rtracklayer_1.42.1          XML_3.99-0                 
+ [9] rlang_0.3.4                 pillar_1.3.1               
+[11] glue_1.3.1                  withr_2.1.2                
+[13] BiocParallel_1.16.6         splitstackshape_1.4.6      
+[15] matrixStats_0.54.0          GenomeInfoDbData_1.2.0     
+[17] plyr_1.8.4                  stringr_1.4.0              
+[19] zlibbioc_1.28.0             munsell_0.5.0              
+[21] gtable_0.3.0                htmlwidgets_1.3            
+[23] labeling_0.3                Biobase_2.42.0             
+[25] GenomeInfoDb_1.18.2         Rcpp_1.0.1                 
+[27] scales_1.0.0                DelayedArray_0.8.0         
+[29] gridExtra_2.3               Rsamtools_1.34.0           
+[31] digest_0.6.18               stringi_1.4.3              
+[33] dplyr_0.8.0.1               GenomicRanges_1.34.0       
+[35] grid_3.5.1                  tools_3.5.1                
+[37] bitops_1.0-6                magrittr_1.5               
+[39] lazyeval_0.2.2              RCurl_1.96-0               
+[41] tibble_2.1.1                crayon_1.3.4               
+[43] pkgconfig_2.0.2             Matrix_1.2-15              
+[45] data.table_1.12.2           assertthat_0.2.1           
+[47] R6_2.4.0                    GenomicAlignments_1.18.0   
+[49] compiler_3.5.1             
